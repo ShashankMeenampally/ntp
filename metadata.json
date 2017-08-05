@@ -1,0 +1,17 @@
+{
+  "name": "puppet-ntp",
+  "version": "0.1.0",
+  "author": "shashank",
+  "summary": "Manage NTP on linux servers",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ShashankMeenampally/ntp.git",
+  "project_page": "https://github.com/ShashankMeenampally/ntp",
+  "issues_url": "https://github.com/ShashankMeenampally/ntp/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
